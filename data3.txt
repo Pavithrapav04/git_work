@@ -1,1 +1,5 @@
 x=3
+
+name=raju
+place=malappuram
+age=12
