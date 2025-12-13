@@ -20,3 +20,4 @@ def mul(x,y):
     return x*y
 
 location ="calicut"
+name = 'haritha'
